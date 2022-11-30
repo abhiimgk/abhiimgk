@@ -2,7 +2,7 @@
 - 👀 I am Data Science Enthusiast.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me. email me- abhi.einew1@gmail.com
+- 📫 Wanna reach me, email me- abhi.einew1@gmail.com
 
 <!---
 abhiimgk/abhiimgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
